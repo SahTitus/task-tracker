@@ -4,7 +4,7 @@
 A task management application built with React + Vite that allows users to track and manage their tasks. The app includes core features like adding, editing, and deleting tasks, enhanced with searching and filtering capabilities, status updates, and data persistence.
 
 ## Live Demo
-Access the hosted version of TrackIt [here](<url>).
+Access the hosted version of TrackIt [here](<https://trackit-one-xi.vercel.app>).
 
 ## Features
 
